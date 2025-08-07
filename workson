@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Luxury Villa",
+    "location": "Dar es Salaam",
+    "price": "TZS 500,000,000",
+    "description": "A luxurious 5-bedroom beachfront villa."
+  },
+  {
+    "name": "City Apartment",
+    "location": "Arusha",
+    "price": "TZS 200,000,000",
+    "description": "Modern 2-bedroom apartment in the city center."
+  },
+  {
+    "name": "Countryside Home",
+    "location": "Morogoro",
+    "price": "TZS 120,000,000",
+    "description": "Quiet 3-bedroom house with garden space."
+  },
+  {
+    "name": "Modern Studio",
+    "location": "Dodoma",
+    "price": "TZS 85,000,000",
+    "description": "Fully furnished studio apartment near the university."
+  },
+  {
+    "name": "Family House",
+    "location": "Mwanza",
+    "price": "TZS 180,000,000",
+    "description": "Spacious home ideal for families with children."
+  },
+  {
+    "name": "Lakeview Cottage",
+    "location": "Bukoba",
+    "price": "TZS 250,000,000",
+    "description": "Charming cottage with views of Lake Victoria."
+  },
+  {
+    "name": "Townhouse",
+    "location": "Mbeya",
+    "price": "TZS 190,000,000",
+    "description": "3-bedroom townhouse with private parking."
+  },
+  {
+    "name": "Beach Apartment",
+    "location": "Zanzibar",
+    "price": "TZS 300,000,000",
+    "description": "Seaside apartment with ocean views and balcony."
+  },
+  {
+    "name": "Investment Plot",
+    "location": "Bagamoyo",
+    "price": "TZS 80,000,000",
+    "description": "1-acre plot suitable for residential development."
+  },
+  {
+    "name": "Mountain Retreat",
+    "location": "Lushoto",
+    "price": "TZS 210,000,000",
+    "description": "Retreat home surrounded by forest and fresh air."
+  },
+  {
+    "name": "Affordable Bungalow",
+    "location": "Iringa",
+    "price": "TZS 95,000,000",
+    "description": "2-bedroom home in a quiet neighborhood."
+  },
+  {
+    "name": "Executive Suite",
+    "location": "Kigoma",
+    "price": "TZS 400,000,000",
+    "description": "Luxury suite in business district."
+  },
+  {
+    "name": "Classic Farmhouse",
+    "location": "Tanga",
+    "price": "TZS 160,000,000",
+    "description": "Farmhouse with open fields and storage units."
+  },
+  {
+    "name": "Penthouse Apartment",
+    "location": "Dar es Salaam",
+    "price": "TZS 600,000,000",
+    "description": "Top-floor apartment with rooftop access."
+  },
+  {
+    "name": "Student Hostel",
+    "location": "Morogoro",
+    "price": "TZS 110,000,000",
+    "description": "Hostel with 10 rooms near university campus."
+  }
+]
